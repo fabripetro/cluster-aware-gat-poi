@@ -25,7 +25,7 @@ Evaluated on the **Foursquare Tokyo (TKY)** check-in dataset:
 
 ## Project Structure
 - `project/`: Contains all Python modules (`preprocess.py`, `train.py`, `evaluate.py`, and neural network components).
-- `report/`: Contains the full project report and documentation.
+- `report.pdf`: Full project report and documentation.
 - `LICENSE`: Project open-source license.
 - `README.md`: Main project documentation.
 
